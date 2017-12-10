@@ -18,7 +18,7 @@
 *.app
 
 build-*
-sip_ua
-udp_server
-tcp_server
+#sip_ua
+#udp_server
+#tcp_server
 
